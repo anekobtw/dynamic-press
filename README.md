@@ -1,2 +1,2 @@
-# dynamic press
+# Dynamic press
  Mechanical keyboard simulator
